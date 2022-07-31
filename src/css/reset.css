@@ -1,0 +1,16 @@
+
+/*  *{    isso é um seletor global 
+    margin:0 ; isso é uma margem        (perdding) é o espaçãmento interno
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+ul{
+    list-style: none;
+    
+}
